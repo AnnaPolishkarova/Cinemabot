@@ -1,0 +1,4 @@
+/.env
+/.vs/
+/data/history.db
+/.idea/
